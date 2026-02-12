@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Nandh",
+    valentineName: "Nandhana",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -42,14 +42,14 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "WOOOOW!! You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
         high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
         normal: "And beyond! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "TYSM!!😍💘 Yu r the luckiest girl in the world! 🎉💝💖💝💓",
+        title: "TYSM!!😍💘 Yu r the luckiest girl in the world! 🎉💝👫",
         message: "Now come get your gift, a big warm hug and a huge kiss!",
         emojis: "🎁💖🤗😘😘💋"  // These will bounce around
     },
